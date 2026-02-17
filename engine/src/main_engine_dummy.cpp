@@ -1,7 +1,10 @@
-#include <iostream>
+#include <Canary/Canary.h>
+#include <spdlog/spdlog.h>
 
-namespace Canary {
-	void EngineHello() {
-		std::cout << "CanaryEngine: Hello!\n";
-	}
+namespace Canary
+{
+    void Hello()
+    {
+        spdlog::info("CanaryEngine initialized");
+    }
 }

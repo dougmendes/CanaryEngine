@@ -1,0 +1,9 @@
+# ninja log v6
+11	602	7930339203423938	game/CMakeFiles/CanaryGame.dir/src/main.cpp.obj	9d7d1feccda212d9
+5	605	7930339203390428	engine/CMakeFiles/CanaryEngine.dir/src/main_engine_dummy.cpp.obj	921c912086cfad52
+605	639	7930339209371814	engine/CanaryEngine.lib	76b26c145c843051
+639	1165	7930339209725625	game/CanaryGame.exe	f8a0a4c2f264b5e
+6	1824	7930402985001777	engine/CMakeFiles/CanaryEngine.dir/src/main_engine_dummy.cpp.obj	921c912086cfad52
+11	1833	7930402985127571	game/CMakeFiles/CanaryGame.dir/src/main.cpp.obj	f7c3e4c7c14dc66e
+1824	1871	7930403003195659	engine/CanaryEngine.lib	76b26c145c843051
+1871	2370	7930403003713964	game/CanaryGame.exe	fc764bbd84a5ea82

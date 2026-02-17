@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/cmake_install.cmake",
+		"C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/engine/cmake_install.cmake",
+		"C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/game/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
