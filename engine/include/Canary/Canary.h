@@ -1,6 +1,4 @@
 #pragma once
 
-namespace Canary
-{
-    void Hello();
-}
+#include "Canary/Core/Application.h"
+#include "Canary/Core/EntryPoint.h"

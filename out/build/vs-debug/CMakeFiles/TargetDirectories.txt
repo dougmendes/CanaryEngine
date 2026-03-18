@@ -1,8 +1,0 @@
-C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/CMakeFiles/edit_cache.dir
-C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/engine/CMakeFiles/CanaryEngine.dir
-C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/engine/CMakeFiles/edit_cache.dir
-C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/engine/CMakeFiles/rebuild_cache.dir
-C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/game/CMakeFiles/CanaryGame.dir
-C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/game/CMakeFiles/edit_cache.dir
-C:/Users/dougl/source/repos/dougmendes/CanaryEngine/out/build/vs-debug/game/CMakeFiles/rebuild_cache.dir
