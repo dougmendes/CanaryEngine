@@ -1,9 +1,6 @@
 #include "Canary/Core/Application.h"
 #include <spdlog/spdlog.h>
 
-#include "Canary/Core/Application.h"
-#include <spdlog/spdlog.h>
-
 namespace Canary
 {
     Application::Application()
