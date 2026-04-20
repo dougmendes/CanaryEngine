@@ -1,5 +1,5 @@
 #include <Canary/Canary.h>
-#include "Canary/Core/EntryPoint.h"
+#include <Canary/Core/EntryPoint.h>
 
 class Sandbox : public Canary::Application
 {
