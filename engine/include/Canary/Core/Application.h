@@ -1,6 +1,7 @@
 #pragma once
 
-struct GLFWwindow;
+#include "Canary/Core/Window.h"
+#include <memory>
 
 namespace Canary
 {
@@ -12,7 +13,7 @@ namespace Canary
 
 		void Run();
 	private:
-		GLFWwindow* m_Window = nullptr;
+		std::unique_ptr<Window> m_Window;
 		bool m_Running = true;
 	};
 
